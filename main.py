@@ -94,6 +94,6 @@ def create_table():
 if __name__ == '__main__':
     print(create_table())
     print(student_with_highest_avg())
-    print(highest_score_in_subject('ინგლისური'))
+    print(highest_score_in_subject('მათემატიკა'))
     print(lowest_score_in_subject('მათემატიკა'))
     print(more_than_average("ინგლისური"))
